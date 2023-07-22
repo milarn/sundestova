@@ -1,8 +1,5 @@
 site_name: Sundestova
 site_url: https://sundestova.lund.store/
-hide:
-  - navigation
-  - toc
 theme:
   name: material
   features:
